@@ -1,0 +1,187 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0px;
+}
+li {
+    list-style: none;
+    padding: 0px 14px;
+    text-align: right;
+    font-size: 21px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.navbar.navbar-inverse.navbar-fixed-top {
+    background-color: darkblue;
+    display: flex;
+}
+.navbar-header {
+    padding: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+ul.nav.navbar-nav {
+    display: flex;
+    padding: 6px;
+    font-weight: bold;
+    padding: 6px 100px;
+    color: white;
+    position: relative;
+    left: 54%;
+}
+button {
+    border-color: lightgrey;
+    border: groove 5px lightblue;
+    background-color: ghostwhite;
+    padding: 10px;
+    text-align: center;
+    text-decoration: blink;
+    display: inline-block;
+    font-size: 16px;
+    margin: 250px 500px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 500px;
+}
+button:hover {
+  background-color:blue;
+  color: white;
+}
+p {
+    padding: 10px 10px;
+    margin: 10px 20px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: math;
+    color:white;
+}
+a.know{
+    color:black;
+}
+a.know:hover{
+    color:white;
+}
+center.edu {
+    margin: 109px;
+    margin-top: 216px;
+}
+table {
+    background: burlywood;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 93px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: darkgray;
+}
+table.know.table {
+    background: burlywood;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 100px;
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+}
+.col-md-12 {
+    display: flex;
+width:100%
+}
+.col-md-6 {
+    width: 50%;
+    margin: 8px;
+}
+img {
+    height: 500px;
+    width: 400px;
+    margin: 100px;
+    border: 2px solid black;
+}
+a.know {
+    background: white;
+    padding: 10px;
+    border-radius: 35px;
+    font-size: 35px;
+}
+h4.back {
+    text-align: center;
+}
+
+a.know:hover {
+  background-color:blue;
+  color: white;
+}
+.skills {
+    margin: 17px 1001px 16px 20px;
+    background: #f0f8ffe8;
+    padding: 19px 4px 24px 24px;
+    width: 289px;
+    height: 290px;
+}
+li.skillli {
+    list-style: square;
+    text-align: left;
+    font-size: 34px;
+    font-style: italic;
+    color: black;
+}
+h1.skill {
+    text-decoration: underline overline;
+    font-size: 50px;
+    font-family: emoji;
+    font-style: italic;
+    letter-spacing: 6px;
+}
+table.contact{
+    height: 302px;
+    width: 467px;
+    background: burlywood;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 100px;
+    border: 2px solid black;
+}
+a.contact:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.contact:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.contact:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a.contact:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+td.contact, th.contact {
+  padding: 45px;
+  border: 1px solid #dddddd;
+  text-align: left;
+
+}
+
+
+
+
+
